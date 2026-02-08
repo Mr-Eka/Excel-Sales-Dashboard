@@ -25,6 +25,6 @@ An interactive sales dashboard built using Microsoft Excel to analyze sales perf
 - Amount
 
 ## Project by:
-Putturu Ekambaram Reddy
-Aspiring Data Analyst
+**Putturu Ekambaram Reddy**
+**Aspiring Data Analyst**
 
